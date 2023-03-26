@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+
+#header-nav .navbar-brand {
+    position: absolute;
+    left: 10px;
+}
+
+.box-text{
+    border: solid black 1px;
+    background: lightgray;
+    margin: 5px;
+    padding: 10px;
+}
+
+li {
+    text-align: center;
+    border-bottom: solid black 1px;
+
+}
+
+.navbar-nomargin{
+    margin: 0;
+}
+
+.szpachel{
+    margin-top: 0;
+}
+
